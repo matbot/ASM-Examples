@@ -2,8 +2,6 @@ TITLE Program 2		(program1.asm)
 
 ; Author: Mathew McDade		mcdadem@oregonstate.edu
 ; Date: 01/26/2018 9:10:07 AM
-; Course / Project ID: CS 271-400 Winter 2018	Program Assignment 2
-; Due Date: 1/28/2018
 ; Description: The following is an assembly langauge program that takes a user defined integer, with an upper limit of 46, 
 ;	ensured by post-test loop validation, and returns the sequence of second-order Fibonacci numbers to the nth term.
 ; Extra Credit: This program displays its output in two aligned colums, and it also does something incredible by testing user 

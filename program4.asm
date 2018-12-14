@@ -2,8 +2,6 @@ TITLE Program 4		(program4.asm)
 
 ; Author: Mathew McDade		mcdadem@oregonstate.edu
 ; Date: 02/18/2018 12:22:26 PM
-; Course / Project ID: CS 271-400 Winter 2018	Program Assignment 4
-; Due Date: 2/18/2018
 ; Description: This program greets the user, prompts the for a number n, in the range [1...10000], validates that the user has entered a valid number, then
 ;	displays the first n composite numbers.
 ; Extra Credit: For extra credit, the program displays its output in aligned columns. The program also displays results sequentially in groups of 90

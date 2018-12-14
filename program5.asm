@@ -2,8 +2,6 @@ TITLE Program 5		(program5.asm)
 
 ; Author: Mathew McDade		mcdadem@oregonstate.edu
 ; Date: 03/06/2018 12:19:24 AM
-; Course / Project ID: CS 271-400 Winter 2018	Program Assignment 5
-; Due Date: 3/4/2018
 ; Description: This program generates a user specified number of random integers in the range [100...999].
 ;	The program prints the unsorted list of random integers, sorts the list, displays the rounded median of 
 ;	the sorted list, and displays the sorted list.

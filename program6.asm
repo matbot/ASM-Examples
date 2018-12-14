@@ -2,8 +2,6 @@ TITLE Program 6b		(program6b.asm)
 
 ; Author: Mathew McDade		mcdadem@oregonstate.edu
 ; Date: 
-; Course / Project ID: CS 271-400 Winter 2018	Program Assignment 5
-; Due Date: 3/18/2018
 ; Description: .
 ; Extra Credit:
 ;	EC#1: .

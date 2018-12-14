@@ -2,8 +2,6 @@ TITLE Program 3		(program3.asm)
 
 ; Author: Mathew McDade		mcdadem@oregonstate.edu
 ; Date: 02/09/2018 9:20:25 PM
-; Course / Project ID: CS 271-400 Winter 2018	Program Assignment 3
-; Due Date: 2/4/2018
 ; Description: Negative Integer Accumulator: This program prompts the user to enter negative integers in the range [-100...-1] and returns
 ;	the total count of integers entered, the sum of those integers, and the average of those integers rounded to the closest integer.
 ; Extra Credit: For extra credit, user input lines are numbered in place. Line numbers are incremented after each successful integer is entered.
