@@ -2,8 +2,6 @@ TITLE Program 1		(program1.asm)
 
 ; Author: Mathew McDade		mcdadem@oregonstate.edu
 ; Date: 01/17/2018 8:42:26 PM
-; Course / Project ID: CS 271-400 Winter 2018	Program Assignment 1
-; Due Date: 1/21/2018
 ; Description: The following is an assembly langauge program that takes two integers from user input and returns the sum,
 ;	difference, product, and quotient with remainder of those two integers.
 ; Extra Credit: This program also detects and notifies the user if the second integer is larger than the first, return a

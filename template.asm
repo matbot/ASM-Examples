@@ -1,10 +1,7 @@
 TITLE Program		(program.asm)
 
 ; Author: Mathew McDade
-; Course: CS 271 Winter 2018
 ; Description: 
-; Extra Credit:
-
 
 INCLUDE Irvine32.inc
 
