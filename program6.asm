@@ -96,32 +96,6 @@ ProblemTop:
 	push	n
 	call	combinations
 
-	;mov	eax,r
-	;call WriteDec
-	;call CrLf
-	;mov	eax,n
-	;call WriteDec
-	;call CrLf
-	;mov	eax,userAnswer
-	;call WriteDec
-	;call CrLf
-	;mov	eax,correctAnswer
-	;call WriteDec
-;; 
-	;push	
-	;call	showResults
-
-;; loopCheck
-	;push	OFFSET msg_RepeatRequest
-	;push	OFFSET msg_RepeatReqError
-	;push	OFFSET loopFlag
-	;call	loopCheck
-	;cmp		loopFlag,1
-	;je		ProblemTop
-;; 
-	;push	
-	;call	finalReport
-
 ; Farewell message to the user.
 	push	OFFSET msg_Farewell
 	call	farewell
