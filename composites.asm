@@ -1,11 +1,11 @@
-TITLE Program 4		(program4.asm)
+TITLE ASM Composites		(composites.asm)
 
-; Author: Mathew McDade		mcdadem@oregonstate.edu
+; Author: Mathew McDade
 ; Date: 02/18/2018 12:22:26 PM
-; Description: This program greets the user, prompts the for a number n, in the range [1...10000], validates that the user has entered a valid number, then
-;	displays the first n composite numbers.
-; Extra Credit: For extra credit, the program displays its output in aligned columns. The program also displays results sequentially in groups of 90
-;	composite numbers per page with each page displayed in place after prompting the user to continue.
+; Description: This program greets the user, prompts the for a number n, in the range [1...10000], validates that the user has entered 
+; a valid number, then displays the first n composite numbers.
+; The program displays its output in aligned columns. The program also displays results sequentially in groups of 90
+; composite numbers per page with each page displayed in place after prompting the user to continue.
 
 INCLUDE Irvine32.inc
 INCLUDE Macros.inc			;for mGotoXY
