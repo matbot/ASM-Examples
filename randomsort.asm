@@ -1,12 +1,10 @@
-TITLE Program 5		(program5.asm)
+TITLE ASM Random Sort		(randomsort.asm)
 
-; Author: Mathew McDade		mcdadem@oregonstate.edu
+; Author: Mathew McDade
 ; Date: 03/06/2018 12:19:24 AM
 ; Description: This program generates a user specified number of random integers in the range [100...999].
-;	The program prints the unsorted list of random integers, sorts the list, displays the rounded median of 
-;	the sorted list, and displays the sorted list.
-; Extra Credit:
-;	EC#1: The program sorts the list using a recursive bubble sort.
+; The program prints the unsorted list of random integers, sorts the list, displays the rounded median of 
+; the sorted list, and displays the sorted list. The program sorts the list using a recursive bubble sort.
 
 INCLUDE Irvine32.inc
 INCLUDE Macros.inc
