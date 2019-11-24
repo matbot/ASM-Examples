@@ -1,11 +1,7 @@
-TITLE Program 6b		(program6b.asm)
+TITLE ASM Combinatorics		(combinatorics.asm)
 
-; Author: Mathew McDade		mcdadem@oregonstate.edu
-; Date: 
-; Description: .
-; Extra Credit:
-;	EC#1: .
-;	EC#2: .
+; Author: Mathew McDade
+; Description: This program gives users practice combinatorics problems and grades their performance.
 
 INCLUDE Irvine32.inc
 INCLUDE Macros.inc
