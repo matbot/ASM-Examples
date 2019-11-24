@@ -1,11 +1,11 @@
-TITLE Program 2		(program1.asm)
+TITLE ASM Fibonacci		(fibonacci.asm)
 
-; Author: Mathew McDade		mcdadem@oregonstate.edu
+; Author: Mathew McDade
 ; Date: 01/26/2018 9:10:07 AM
-; Description: The following is an assembly langauge program that takes a user defined integer, with an upper limit of 46, 
-;	ensured by post-test loop validation, and returns the sequence of second-order Fibonacci numbers to the nth term.
-; Extra Credit: This program displays its output in two aligned colums, and it also does something incredible by testing user 
-;	defined integers, up to 6,000,000, and stating whether or not they are Fibonacci numbers.
+; An assembly langauge program that takes a user defined integer, with an upper limit of 46, 
+; ensured by post-test loop validation, and returns the sequence of second-order Fibonacci numbers to the nth term.
+; This program displays its output in two aligned colums, and it also does something incredible by testing user 
+; defined integers, up to 6,000,000, and stating whether or not they are Fibonacci numbers.
 
 INCLUDE Irvine32.inc
 
