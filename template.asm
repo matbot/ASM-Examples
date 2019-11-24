@@ -1,4 +1,4 @@
-TITLE Program		(program.asm)
+TITLE Template		(template.asm)
 
 ; Author: Mathew McDade
 ; Description: 
