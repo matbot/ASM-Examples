@@ -1,4 +1,4 @@
-TITLE Program 1		(program1.asm)
+TITLE ASM Calculator		(calculator.asm)
 
 ; Author: Mathew McDade
 ; Date: 01/17/2018 8:42:26 PM
