@@ -1,6 +1,6 @@
 TITLE Program 1		(program1.asm)
 
-; Author: Mathew McDade		mcdadem@oregonstate.edu
+; Author: Mathew McDade
 ; Date: 01/17/2018 8:42:26 PM
 ; Description: The following is an assembly langauge program that takes two integers from user input and returns the sum,
 ;	difference, product, and quotient with remainder of those two integers.
