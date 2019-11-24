@@ -1,12 +1,11 @@
-TITLE Program 3		(program3.asm)
+TITLE ASM Negative Integer Accumulator		(accumulator.asm)
 
-; Author: Mathew McDade		mcdadem@oregonstate.edu
+; Author: Mathew McDade
 ; Date: 02/09/2018 9:20:25 PM
-; Description: Negative Integer Accumulator: This program prompts the user to enter negative integers in the range [-100...-1] and returns
-;	the total count of integers entered, the sum of those integers, and the average of those integers rounded to the closest integer.
-; Extra Credit: For extra credit, user input lines are numbered in place. Line numbers are incremented after each successful integer is entered.
-;	The program also shows the average as a floating point number rounded to three decimal places. The program is astounding creative by carrying
-;	out all of its user interaction on a single buffer page while providing the user with ongoing program results after each integer is entered.
+; Description: This program prompts the user to enter negative integers in the range [-100...-1] and returns
+; the total count of integers entered, the sum of those integers, and the average of those integers rounded to the closest integer.
+; User input lines are numbered in place. Line numbers are incremented after each successful integer is entered.
+; The program also shows the average as a floating point number rounded to three decimal places.
 
 INCLUDE Irvine32.inc
 INCLUDE Macros.inc			;for mGotoXY
